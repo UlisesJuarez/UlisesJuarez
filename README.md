@@ -5,7 +5,7 @@
 I'm a Mexican full stack developer.
  🙋 | :octocat:
 ------------ | -------------
-[![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesJuarez&show_icons=true&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesJuarez&langs_count=12&layout=compact&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)
+[![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesJuarez&show_icons=true&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesJuarez&langs_count=15&layout=compact&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)
 
 ----
 
@@ -54,11 +54,11 @@ I'm a Mexican full stack developer.
 
 
   **SQL-->**
-  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
+  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
 
 ---
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Machine-learning&theme=radical "Machine learning course")](https://github.com/UlisesJuarez/Machine-learning)
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Sistemas-distribuidos&theme=highcontrast "Desarrollo de sistemas distribuidos")](https://github.com/UlisesJuarez/Sistemas-distribuidos) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Sistemas-distribuidos&theme=highcontrast "Desarrollo de sistemas distribuidos")](https://github.com/UlisesJuarez/Sistemas-distribuidos)
