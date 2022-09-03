@@ -60,5 +60,5 @@ I'm a Mexican full stack developer.
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Machine-learning&theme=radical "Machine learning course")](https://github.com/UlisesJuarez/Machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Machine-learning&theme=radical "Machine learning intro")](https://github.com/UlisesJuarez/Machine-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Sistemas-distribuidos&theme=highcontrast "Desarrollo de sistemas distribuidos")](https://github.com/UlisesJuarez/Sistemas-distribuidos)
