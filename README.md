@@ -19,6 +19,10 @@ I'm a Mexican full stack developer.
 
 ----
 
+https://github-profile-trophy.vercel.app/?username=UlisesJuarez&theme=algolia
+
+----
+
 ### 💻 Languages and Tools 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
