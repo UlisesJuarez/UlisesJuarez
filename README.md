@@ -19,7 +19,7 @@ I'm a Mexican full stack developer.
 
 ----
 
-https://github-profile-trophy.vercel.app/?username=UlisesJuarez&theme=algolia
+[![trophy](https://github-profile-trophy.vercel.app/?username=UlisesJuarez&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ----
 
